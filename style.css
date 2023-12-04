@@ -1,0 +1,12 @@
+.h1Div {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 300px;
+    background-color: lightskyblue;
+    height: 80px;
+}
+
+#header {
+    color: pink;
+}
